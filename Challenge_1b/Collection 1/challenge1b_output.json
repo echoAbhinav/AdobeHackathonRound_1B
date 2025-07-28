@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends."
+  },
+  "extracted_sections": [
+    {
+      "document": "input/PDFs/South of France - Tips and Tricks.pdf",
+      "section_title": "Full document",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Restaurants and Hotels.pdf",
+      "section_title": "Full document",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Things to Do.pdf",
+      "section_title": "Full document",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - History.pdf",
+      "section_title": "Full document",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Cities.pdf",
+      "section_title": "Full document",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Cuisine.pdf",
+      "section_title": "Full document",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Traditions and Culture.pdf",
+      "section_title": "Full document",
+      "importance_rank": 7,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "input/PDFs/South of France - Tips and Tricks.pdf",
+      "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, \nPlanning, and Exploring \nIntroduction \nPlanning a trip to the South of France requires thoughtful preparation to ensure a \ncomfortable and enjoyable experience. This guide",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Comprehensive Guide to Restaurants and Hotels in the South of France \nIntroduction \nThe South of France, known for its stunning landscapes, rich cultural heritage, and exquisite \ncuisine, is a dream destination for travelers. From the glamorous beaches of",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Things to Do.pdf",
+      "refined_text": "Ultimate Guide to Activities and Things to Do in the South of France \nIntroduction \nThe South of France, with its stunning coastline, picturesque villages, and vibrant cities, o\ufb00ers \na wealth of activities and experiences for travelers. Whether you're seek",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - History.pdf",
+      "refined_text": "A Historical Journey Through the South of France \nIntroduction \nThe South of France, renowned for its picturesque landscapes, charming villages, and \nstunning coastline, is also steeped in history. From ancient Roman ruins to medieval \nfortresses and Renai",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Cities.pdf",
+      "refined_text": "Comprehensive Guide to Major Cities in the South of France \nIntroduction \nThe South of France, known for its stunning landscapes, Mediterranean coastline, and rich \ncultural heritage, is home to some of the most beautiful and historically significant citie",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Cuisine.pdf",
+      "refined_text": "A Culinary Journey Through the South of France \nIntroduction \nThe South of France, known for its stunning landscapes and charming villages, is also a \nparadise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, \nfresh ing",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/South of France - Traditions and Culture.pdf",
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of France \nIntroduction \nThe South of France, with its picturesque landscapes, charming villages, and vibrant cities, is \nnot only a feast for the eyes but also a treasure trove of cultural tradi",
+      "page_number": 1
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+  },
+  "extracted_sections": [
+    {
+      "document": "input/PDFs/Lunch Ideas.pdf",
+      "section_title": "Full document",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Mains_3.pdf",
+      "section_title": "Full document",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_4.pdf",
+      "section_title": "Full document",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_3.pdf",
+      "section_title": "Full document",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Mains_2.pdf",
+      "section_title": "Full document",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Mains_1.pdf",
+      "section_title": "Full document",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_1.pdf",
+      "section_title": "Full document",
+      "importance_rank": 7,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_2.pdf",
+      "section_title": "Full document",
+      "importance_rank": 8,
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Breakfast Ideas.pdf",
+      "section_title": "Full document",
+      "importance_rank": 9,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "input/PDFs/Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n\u2022 \n1 whole wheat tortilla \n\u2022 \n1 cup cooked chicken breast, sliced \n\u2022 \n1 cup romaine lettuce, chopped \n\u2022 \n2 tablespoons Caesar dressing \n\u2022 \n2 tablespoons grated Parmesan cheese \n\u2022 \nOptional: croutons for extra crunch",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nReturn chicken to the skillet and cook until heated through. \n\uf0b7 \nServe warm. \n \n \n \nPeking Duck \nIngredients: \n\uf0b7 \n1 whole duck \n\uf0b7 \n1/4 cup soy sauce \n\uf0b7 \n1/4 cup honey \n\uf0b7 \n2 tablespoons hoisin sauce \n\uf0b7 \n2 tablespoons rice vinegar \n\uf0b7 \n2 cloves garlic, min",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan. \no Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \no Add bean sprouts, cooked shrimp, and chopped green onions. \no Garnish with crushed peanuts and serve. \n \nPajeon (Pancakes) \n\uf0b7 \nIngredien",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 2 cloves garlic \no 4 tomatoes \no 4 cups vegetable broth \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon salt \no 1/4 cup cilantro \n\uf0b7 \nInstructions: \no Saut\u00e9 diced onion and minced garlic until softened. \no Add diced tomato",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 teaspoon rosemary \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nIn a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes. \n\uf0b7 \nIn a bowl, mi",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff \nIngredients: \n\uf0b7 \n1 pound beef sirloin, thinly sliced \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 cup mushrooms, sliced \n\uf0b7 \n1 cup beef broth \n\uf0b7 \n1 cup sour cream \n\uf0b7 \n2 tablespoons flour \n\uf0b7 \n2 tablespoons butter \n\uf0b7 \n1 te",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Acaraj\u00e9 \n\uf0b7 \nIngredients:  \no 2 cups black-eyed peas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Soak black-eyed peas overnight, then peel and rinse. \no Blend peas with diced onion, minced garlic, an",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Churros \n\uf0b7 \nIngredients: \no 1 cup water \no 1/2 cup butter \no 1 cup flour \no 3 eggs \no 1/4 cup sugar \no 1 teaspoon cinnamon \no Oil for frying \n\uf0b7 \nInstructions: \no Bring water and butter to a boil. \no Add flour and stir until a dough forms. \no Remove from he",
+      "page_number": 1
+    },
+    {
+      "document": "input/PDFs/Breakfast Ideas.pdf",
+      "refined_text": "Pancakes \nIngredients: \n\u2022 \n1 cup all-purpose flour \n\u2022 \n2 tablespoons sugar \n\u2022 \n1 teaspoon baking powder \n\u2022 \n1/2 teaspoon baking soda \n\u2022 \n1/4 teaspoon salt \n\u2022 \n1 cup buttermilk \n\u2022 \n1 large egg \n\u2022 \n2 tablespoons melted butter \n\u2022 \n1 teaspoon vanilla ext",
+      "page_number": 1
+    }
+  ]
+}
